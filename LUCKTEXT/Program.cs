@@ -10,5 +10,3 @@
 
 //Console.ReadLine();
 
-//Console.WriteLine("Vad heter du");
-
